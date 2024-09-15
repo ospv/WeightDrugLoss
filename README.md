@@ -66,4 +66,4 @@ Different time-to-onset signals were found for:
 | ![mounjaro-productdoseomissionissue](mounjaro%20-%20product%20dose%20omission%20issue.png) | ![mounjaro-suicidalideation](mounjaro%20-%20suicidal%20ideation.png) | 
 
 <a id="DPA"></a>    
-The results of disproportionality analysis are [here](Disproportionality.html)
+The results of disproportionality analysis are [here](https://ospv.github.io/WeightDrugLoss/Disproportionality.html)
