@@ -4,4 +4,4 @@ This github page contains raw results generated in the context of the presentati
 Independent Insights from Open Data & Open Source technology​" made by Lionel Van Holle for OpenSourcePV. 
 
 The results of the competitive analysis are here for: 
-* [Ozempic vs Mounjaro]([24Q1%20-%20Targetedcompetitive%20-%20ozempic%20vs%20mounjaro.html](https://github.com/ospv/WeightDrugLoss/blob/gh-pages/24Q1%20-%20Targetedcompetitive%20-%20ozempic%20vs%20mounjaro.html)) 
+* [Ozempic vs Mounjaro]([24Q1%20-%20Targetedcompetitive%20-%20ozempic%20vs%20mounjaro.html](https://github.com/ospv/WeightDrugLoss/blob/gh-pages/24Q1%20-%20Targetedcompetitive%20-%20ozempic%20vs%20mounjaro.html)
