@@ -31,4 +31,11 @@ Different time-to-onset signals were found for:
 |------------|------------|
 | ![Zepbound-accidentalunderdose](/zepbound%20-%20accidental%20underdose.png) | ![Zepbound-injectionsiteinjury](/zepbound%20-%20injection%20site%20injury.png) | 
   
+<a id="ttoozempic"></a>  
+* Ozempic
+
+| TTO Signal | TTO Signal |
+|------------|------------|
+| ![Zepbound-accidentalunderdose](/zepbound%20-%20accidental%20underdose.png) | ![Zepbound-injectionsiteinjury](/zepbound%20-%20injection%20site%20injury.png) | 
+  
 
