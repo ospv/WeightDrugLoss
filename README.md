@@ -52,12 +52,12 @@ Different time-to-onset signals were found for:
 
 | TTO Signal | TTO Signal |
 |------------|------------|
-| ![Ozempic-abortionspontaneous](/ozempic%20-%20abortion%20spontaneous.png) | ![Ozempic-acutekidneyinjury](/ozempic%20-%20acute%20kidney%20injury.png) | 
-| ![Ozempic-asthenia](/ozempic%20-%20asthenia.png) | ![Ozempic-constipation](/ozempic%20-%20constipation.png) | 
-| ![Ozempic-decreasedappetite](/ozempic%20-%20decreased%20appetite.png) | ![Ozempic-dehydration](/ozempic%20-%20dehydration.png) | 
-| ![Ozempic-gastroenteritis](/ozempic%20-%20gastroenteritis.png) | ![Ozempic-dehydration](/ozempic%20-%20dehydration.png) | 
-| ![Ozempic-hyperhidrosis](/ozempic%20-%20hyperhidrosis.png) | ![Ozempic-hypertension](/ozempic%20-%20hypertension.png) | 
-| ![Ozempic-hypokalaemia](/ozempic%20-%20hypokalaemia.png) | ![Ozempic-ketoacidosis](/ozempic%20-%20ketoacidosis.png) | 
-| ![Ozempic-swelling](/ozempic%20-%20swelling.png) | ![Ozempic-therapychange](/ozempic%20-%20therapy%20change.png) | 
+| ![mounjaro-asthenia](/mounjaro%20-%20asthenia.png) | ![mounjaro-bonepain](/mounjaro%20-%20bone%20pain.png) | 
+| ![mounjaro-constipation](/mounjaro%20-%20constipation.png) | ![mounjaro-decreasedappetite](/mounjaro%20-%20decreased%20appetite.png) | 
+| ![mounjaro-dehydration](/mounjaro%20-%20dehydration.png) | ![mounjaro-diarrhoea](/mounjaro%20-%20diarrhoea.png) | 
+| ![mounjaro-fatigue](/mounjaro%20-%20fatigue.png) | ![mounjaro-feedingdisorder](/mounjaro%20-%20feeding%20disorder.png) | 
+| ![mounjaro-hyperhidrosis](/mounjaro%20-%20hyperhidrosis.png) | ![mounjaro-hypertension](/mounjaro%20-%20hypertension.png) | 
+| ![mounjaro-hypokalaemia](/mounjaro%20-%20hypokalaemia.png) | ![mounjaro-ketoacidosis](/mounjaro%20-%20ketoacidosis.png) | 
+| ![mounjaro-swelling](/mounjaro%20-%20swelling.png) | ![mounjaro-therapychange](/mounjaro%20-%20therapy%20change.png) | 
   
 
