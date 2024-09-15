@@ -24,6 +24,7 @@ Different time-to-onset signals were found for:
 | ![wegovy-injectionsitebruising](/wegovy%20-%20injection%20site%20bruising.png) | ![wegovy-headache](/wegovy%20-%20headache.png) |
 | ![wegovy-deviceleakage](/wegovy%20-%20device%20leakage.png) | ![wegovy-dehydration](/wegovy%20-%20dehydration.png) |
 
+<a id="ttozepbound"></a>  
 * Zepbound
 
 | TTO Signal | TTO Signal |
