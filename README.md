@@ -66,7 +66,7 @@ Different time-to-onset signals were found using a minimal distance of 0.2 and a
 | ![mounjaro-neckpain](mounjaro%20-%20neck%20pain.png) | ![mounjaro-pain](mounjaro%20-%20pain.png) | 
 | ![mounjaro-productdoseomissionissue](mounjaro%20-%20product%20dose%20omission%20issue.png) | ![mounjaro-suicidalideation](mounjaro%20-%20suicidal%20ideation.png) | 
 
-<a id="ttowegovy"></a>  
+<a id="Cluster"></a>  
 # Cluster Analysis
 
 Cluster analysis ran over all PTs reported for all products. 
@@ -75,11 +75,11 @@ are listed here.
 
 | Product | Event | Report |
 |---------|-------|--------|
-| Ozempic | Suicidal ideation |  ozempic-cluster-suicidal_ideation.html |
-| Ozempic | Completed suicide |  ozempic-cluster-completed_suicide.html |
-| Ozempic | Impaired gastric emptying |  ozempic-cluster-impaired_gastric_emptying.html |
-| Ozempic | Brain fog |  ozempic-cluster-brain_fog.html |
-| Ozempic | Allodynia |  ozempic-cluster-allodynia.html |
+| Ozempic | Suicidal ideation |  [Link](ozempic-cluster-suicidal_ideation.html) |
+| Ozempic | Completed suicide |  [Link](ozempic-cluster-completed_suicide.html) |
+| Ozempic | Impaired gastric emptying |  [Link](ozempic-cluster-impaired_gastric_emptying.html) |
+| Ozempic | Brain fog |  [Link](ozempic-cluster-brain_fog.html) |
+| Ozempic | Allodynia |  [Link](ozempic-cluster-allodynia.html) |
 
 
 <a id="competitive"></a>  
