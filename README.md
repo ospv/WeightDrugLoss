@@ -38,6 +38,9 @@ Different time-to-onset signals were found for:
 |------------|------------|
 | ![Ozempic-abortionspontaneous](/ozempic%20-%20abortion%20spontaneous.png) | ![Ozempic-acutekidneyinjury](/ozempic%20-%20acute%20kidney%20injury.png) | 
 | ![Ozempic-asthenia](/ozempic%20-%20asthenia.png) | ![Ozempic-constipation](/ozempic%20-%20constipation.png) | 
-| ![Ozempic-decreasedappetite](/ozempic%20-%20decreasd%20appetite.png) | ![Ozempic-acutekidneyinjury](/ozempic%20-%20acute%20kidney%20injury.png) | 
+| ![Ozempic-decreasedappetite](/ozempic%20-%20decreased%20appetite.png) | ![Ozempic-dehydration](/ozempic%20-%20dehydration.png) | 
+| ![Ozempic-gastroenteritis](/ozempic%20-%20gastroenteritis.png) | ![Ozempic-dehydration](/ozempic%20-%20dehydration.png) | 
+| ![Ozempic-hyperhidrosis](/ozempic%20-%20hyperhidrosis.png) | ![Ozempic-hypertension](/ozempic%20-%20hypertension.png) | 
+| ![Ozempic-hypokalaemia](/ozempic%20-%20hyp.png) | ![Ozempic-ketoacidosis](/ozempic%20-%20ketoacidosis.png) | 
   
 
