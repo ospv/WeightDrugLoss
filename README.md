@@ -3,20 +3,21 @@
 This github page contains raw results generated in the context of the presentation to the German PV day on 17 September 2024 for a presentation entitled "Weight Loss Drugs - ​Independent Insights from Open Data & Open Source technology​" made by Lionel Van Holle for OpenSourcePV using FAERS data up to 24Q1. 
 
 **Table of content of previous analyses:**
-- [Competitive Analysis](#competitive)
+- [Disproportionality Analysis](#DPA)
 - Time-to-onset Analysis:
   - [wegovy](#ttowegovy)
   - [zepbound](#ttozepbound)
   - [ozempic](#ttoozempic)
   - [mounjaro](#ttomounjaro)
-- [Disproportionality Analysis](#DPA)
 - [Cluster Analysis](#Cluster)
-    
-<a id="competitive"></a>  
-The results of the competitive analysis are here for: 
-* [Ozempic vs Mounjaro](https://ospv.github.io/WeightDrugLoss/24Q1%20-%20Targetedcompetitive%20-%20ozempic%20vs%20mounjaro.html)
+- [Competitive Analysis](#competitive)
 
-Different time-to-onset signals were found for:
+<a id="DPA"></a>
+# Disproportionality Analysis    
+The results of disproportionality analysis are [here](https://ospv.github.io/WeightDrugLoss/Disproportionality.html). A quantitative signal of disproportionate reporting was generated when IC025 was higher than 0. 
+
+# Time-to-onset Analysis. 
+Different time-to-onset signals were found using a minimal distance of 0.2 and a p-value lower than 0.01:
 
 <a id="ttowegovy"></a>  
 * Wegovy:
@@ -65,5 +66,8 @@ Different time-to-onset signals were found for:
 | ![mounjaro-neckpain](mounjaro%20-%20neck%20pain.png) | ![mounjaro-pain](mounjaro%20-%20pain.png) | 
 | ![mounjaro-productdoseomissionissue](mounjaro%20-%20product%20dose%20omission%20issue.png) | ![mounjaro-suicidalideation](mounjaro%20-%20suicidal%20ideation.png) | 
 
-<a id="DPA"></a>    
-The results of disproportionality analysis are [here](https://ospv.github.io/WeightDrugLoss/Disproportionality.html)
+
+<a id="competitive"></a>  
+The results of the competitive analysis are here for: 
+* [Ozempic vs Mounjaro](https://ospv.github.io/WeightDrugLoss/24Q1%20-%20Targetedcompetitive%20-%20ozempic%20vs%20mounjaro.html)
+
