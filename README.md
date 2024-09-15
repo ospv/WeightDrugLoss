@@ -73,6 +73,15 @@ Cluster analysis ran over all PTs reported for all products.
 By default, time window was one year and top 5 of the most significant signals of excess of reports within the last time period of one year (01APR2023-31MAR2024)
 are listed here. 
 
+| Product | Event | Report |
+|---------|-------|--------|
+| Ozempic | Suicidal ideation |  ozempic-cluster-suicidal_ideation.html |
+| Ozempic | Completed suicide |  ozempic-cluster-completed_suicide.html |
+| Ozempic | Impaired gastric emptying |  ozempic-cluster-impaired_gastric_emptying.html |
+| Ozempic | Brain fog |  ozempic-cluster-brain_fog.html |
+| Ozempic | Allodynia |  ozempic-cluster-allodynia.html |
+
+
 <a id="competitive"></a>  
 # Safety Competitive Intelligence 
 The results of the competitive analysis are here for: 
