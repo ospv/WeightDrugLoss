@@ -4,9 +4,9 @@ This github page contains raw results generated in the context of the presentati
 
 **Table of content of previous analyses:**
 - [Competitive Analysis](#competitive)
-- [Time-to-onset Analysis]:
-  - wegovy (#ttowegovy)
-  - zepbound (#ttozepbound)
+- Time-to-onset Analysis:
+  - [wegovy](#ttowegovy)
+  - [zepbound](#ttozepbound)
   -   
 <a id="competitive"></a>  
 The results of the competitive analysis are here for: 
