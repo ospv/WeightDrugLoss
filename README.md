@@ -36,6 +36,8 @@ Different time-to-onset signals were found for:
 
 | TTO Signal | TTO Signal |
 |------------|------------|
-| ![Zepbound-accidentalunderdose](/zepbound%20-%20accidental%20underdose.png) | ![Zepbound-injectionsiteinjury](/zepbound%20-%20injection%20site%20injury.png) | 
+| ![Ozempic-abortionspontaneous](/ozempic%20-%20abortion%20spontaneous.png) | ![Ozempic-acutekidneyinjury](/ozempic%20-%20acute%20kidney%20injury.png) | 
+| ![Ozempic-asthenia](/ozempic%20-%20asthenia.png) | ![Ozempic-constipation](/ozempic%20-%20constipation.png) | 
+| ![Ozempic-decreasedappetite](/ozempic%20-%20decreasd%20appetite.png) | ![Ozempic-acutekidneyinjury](/ozempic%20-%20acute%20kidney%20injury.png) | 
   
 
