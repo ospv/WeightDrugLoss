@@ -8,5 +8,6 @@ The results of the competitive analysis are here for:
 
 Different time-to-onset signals were found for Wegovy:
 
-|--------|---------|
+| TTO Signal | TTO Signal |
+|------------|------------|
 | ![Wegovy-vomiting](/wegovy%20-%20vomiting.png) | ![Wegovy-pain-of-skin](/wegovy%20-%20pain%20of%20skin.png) | 
