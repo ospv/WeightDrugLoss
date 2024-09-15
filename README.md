@@ -42,5 +42,6 @@ Different time-to-onset signals were found for:
 | ![Ozempic-gastroenteritis](/ozempic%20-%20gastroenteritis.png) | ![Ozempic-dehydration](/ozempic%20-%20dehydration.png) | 
 | ![Ozempic-hyperhidrosis](/ozempic%20-%20hyperhidrosis.png) | ![Ozempic-hypertension](/ozempic%20-%20hypertension.png) | 
 | ![Ozempic-hypokalaemia](/ozempic%20-%20hypokalaemia.png) | ![Ozempic-ketoacidosis](/ozempic%20-%20ketoacidosis.png) | 
+| ![Ozempic-swelling](/ozempic%20-%20swelling.png) | ![Ozempic-therapychange](/ozempic%20-%20therapy%20change.png) | 
   
 
