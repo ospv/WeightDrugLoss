@@ -75,11 +75,11 @@ are listed here.
 
 | Product | Event | Report |
 |---------|-------|--------|
-| Ozempic | Suicidal ideation |  [Link](ozempic-cluster-suicidal_ideation.html) |
-| Ozempic | Completed suicide |  [Link](ozempic-cluster-completed_suicide.html) |
-| Ozempic | Impaired gastric emptying |  [Link](ozempic-cluster-impaired_gastric_emptying.html) |
-| Ozempic | Brain fog |  [Link](ozempic-cluster-brain_fog.html) |
-| Ozempic | Allodynia |  [Link](ozempic-cluster-allodynia.html) |
+| Ozempic | Suicidal ideation |  [Link](https://ospv.github.io/WeightDrugLoss/ozempic-cluster-suicidal_ideation.html) |
+| Ozempic | Completed suicide |  [Link](https://ospv.github.io/WeightDrugLoss/ozempic-cluster-completed_suicide.html) |
+| Ozempic | Impaired gastric emptying |  [Link](https://ospv.github.io/WeightDrugLoss/ozempic-cluster-impaired_gastric_emptying.html) |
+| Ozempic | Brain fog |  [Link](https://ospv.github.io/WeightDrugLoss/ozempic-cluster-brain_fog.html) |
+| Ozempic | Allodynia |  [Link](https://ospv.github.io/WeightDrugLoss/ozempic-cluster-allodynia.html) |
 
 
 <a id="competitive"></a>  
