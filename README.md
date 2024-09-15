@@ -21,7 +21,7 @@ Different time-to-onset signals were found for:
 
 | TTO Signal | TTO Signal |
 |------------|------------|
-| ![Wegovy-vomiting](/wegovy%20-%20vomiting.png) | ![Wegovy-pain-of-skin](/wegovy%20-%20pain%20of%20skin.png) | 
+| ![Wegovy-vomiting](https://ospv.github.io/WeightDrugLoss/wegovy%20-%20vomiting.png) | ![Wegovy-pain-of-skin](/wegovy%20-%20pain%20of%20skin.png) | 
 | ![wegovy-injectionsitepain](/wegovy%20-%20injection%20site%20pain.png) | ![wegovy-injectionsiteextravasation](/wegovy%20-%20injection%20site%20extravasation.png) |
 | ![wegovy-injectionsitebruising](/wegovy%20-%20injection%20site%20bruising.png) | ![wegovy-headache](/wegovy%20-%20headache.png) |
 | ![wegovy-deviceleakage](/wegovy%20-%20device%20leakage.png) | ![wegovy-dehydration](/wegovy%20-%20dehydration.png) |
