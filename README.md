@@ -80,7 +80,11 @@ are listed here.
 | Ozempic | Impaired gastric emptying |  [Link](https://ospv.github.io/WeightDrugLoss/ozempic-cluster-impaired_gastric_emptying.html) |
 | Ozempic | Brain fog |  [Link](https://ospv.github.io/WeightDrugLoss/ozempic-cluster-brain_fog.html) |
 | Ozempic | Allodynia |  [Link](https://ospv.github.io/WeightDrugLoss/ozempic-cluster-allodynia.html) |
-
+| Mounjaro | Accidental overdose |  [Link](https://ospv.github.io/WeightDrugLoss/mounjaro-cluster-accidental_overdose.html) |
+| Mounjaro | Brain fog |  [Link](https://ospv.github.io/WeightDrugLoss/mounjaro-cluster-brain_fog.html) |
+| Mounjaro | Impaired gastric emptying |  [Link](https://ospv.github.io/WeightDrugLoss/mounjaro-cluster-impaired_gastric_emptying.html) |
+| Mounjaro | Alopecia |  [Link](https://ospv.github.io/WeightDrugLoss/mounjaro-cluster-alopecia.html) |
+| Mounjaro | Overdose |  [Link](https://ospv.github.io/WeightDrugLoss/mounjaro-cluster-overdose.html) |
 
 <a id="competitive"></a>  
 # Safety Competitive Intelligence 
