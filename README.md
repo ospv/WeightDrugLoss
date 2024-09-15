@@ -66,8 +66,15 @@ Different time-to-onset signals were found using a minimal distance of 0.2 and a
 | ![mounjaro-neckpain](mounjaro%20-%20neck%20pain.png) | ![mounjaro-pain](mounjaro%20-%20pain.png) | 
 | ![mounjaro-productdoseomissionissue](mounjaro%20-%20product%20dose%20omission%20issue.png) | ![mounjaro-suicidalideation](mounjaro%20-%20suicidal%20ideation.png) | 
 
+<a id="ttowegovy"></a>  
+# Cluster Analysis
+
+Cluster analysis ran over all PTs reported for all products. 
+By default, time window was one year and top 5 of the most significant signals of excess of reports within the last time period of one year (01APR2023-31MAR2024)
+are listed here. 
 
 <a id="competitive"></a>  
+# Safety Competitive Intelligence 
 The results of the competitive analysis are here for: 
 * [Ozempic vs Mounjaro](https://ospv.github.io/WeightDrugLoss/24Q1%20-%20Targetedcompetitive%20-%20ozempic%20vs%20mounjaro.html)
 
