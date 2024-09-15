@@ -6,4 +6,7 @@ Independent Insights from Open Data & Open Source technology​" made by Lionel 
 The results of the competitive analysis are here for: 
 * [Ozempic vs Mounjaro](https://ospv.github.io/WeightDrugLoss/24Q1%20-%20Targetedcompetitive%20-%20ozempic%20vs%20mounjaro.html)
 
-Testing adding images ![test](/wegovy%20-%20vomiting.png)
+Different time-to-onset signals were found for Wegovy:
+
+|--------|---------|
+| ![Wegovy-vomiting](/wegovy%20-%20vomiting.png) | ![Wegovy-pain-of-skin](/wegovy%20-%20pain%20of%20skin.png) | 
