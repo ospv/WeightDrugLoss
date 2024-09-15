@@ -12,7 +12,7 @@ This github page contains raw results generated in the context of the presentati
     
 <a id="competitive"></a>  
 The results of the competitive analysis are here for: 
-* [Ozempic vs Mounjaro](https://ospv.github.io/WeightDrugLoss/24Q1%20-%20Targetedcompetitive%20-%20ozempic%20vs%20mounjaro.html)
+![Ozempic vs Mounjaro](https://ospv.github.io/WeightDrugLoss/24Q1%20-%20Targetedcompetitive%20-%20ozempic%20vs%20mounjaro.html)
 
 Different time-to-onset signals were found for:
 
