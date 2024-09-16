@@ -20,7 +20,7 @@ The results of disproportionality analysis are [here](https://ospv.github.io/Wei
 Different time-to-onset signals were found using a minimal distance of 0.2 and a p-value lower than 0.01:
 
 <a id="ttowegovy"></a>  
-* Wegovy:
+## Wegovy
 
 | TTO Signal | TTO Signal |
 |------------|------------|
@@ -30,14 +30,14 @@ Different time-to-onset signals were found using a minimal distance of 0.2 and a
 | ![wegovy-deviceleakage](wegovy%20-%20device%20leakage.png) | ![wegovy-dehydration](wegovy%20-%20dehydration.png) |
 
 <a id="ttozepbound"></a>  
-* Zepbound
+## Zepbound
 
 | TTO Signal | TTO Signal |
 |------------|------------|
 | ![Zepbound-accidentalunderdose](zepbound%20-%20accidental%20underdose.png) | ![Zepbound-injectionsiteinjury](zepbound%20-%20injection%20site%20injury.png) | 
   
 <a id="ttoozempic"></a>  
-* Ozempic
+## Ozempic
 
 | TTO Signal | TTO Signal |
 |------------|------------|
@@ -51,7 +51,7 @@ Different time-to-onset signals were found using a minimal distance of 0.2 and a
 
 
 <a id="ttomounjaro"></a>  
-* Mounjaro
+## Mounjaro
 
 | TTO Signal | TTO Signal |
 |------------|------------|
