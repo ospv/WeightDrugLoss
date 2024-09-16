@@ -14,7 +14,7 @@ This github page contains raw results generated in the context of the presentati
 
 <a id="DPA"></a>
 # Disproportionality Analysis    
-The results of disproportionality analysis are [here](https://ospv.github.io/WeightDrugLoss/Disproportionality.html). A quantitative signal of disproportionate reporting was generated when IC025 was higher than 0. 
+The results of disproportionality analysis are [here](https://ospv.github.io/WeightLossDrugs/Disproportionality.html). A quantitative signal of disproportionate reporting was generated when IC025 was higher than 0. 
 
 # Time-to-onset Analysis. 
 Different time-to-onset signals were found using a minimal distance of 0.2 and a p-value lower than 0.01:
@@ -75,19 +75,19 @@ are listed here.
 
 | Product | Event | Report |
 |---------|-------|--------|
-| Ozempic | Suicidal ideation |  [Link](https://ospv.github.io/WeightDrugLoss/ozempic-cluster-suicidal_ideation.html) |
-| Ozempic | Completed suicide |  [Link](https://ospv.github.io/WeightDrugLoss/ozempic-cluster-completed_suicide.html) |
-| Ozempic | Impaired gastric emptying |  [Link](https://ospv.github.io/WeightDrugLoss/ozempic-cluster-impaired_gastric_emptying.html) |
-| Ozempic | Brain fog |  [Link](https://ospv.github.io/WeightDrugLoss/ozempic-cluster-brain_fog.html) |
-| Ozempic | Allodynia |  [Link](https://ospv.github.io/WeightDrugLoss/ozempic-cluster-allodynia.html) |
-| Mounjaro | Accidental overdose |  [Link](https://ospv.github.io/WeightDrugLoss/mounjaro-cluster-accidental_overdose.html) |
-| Mounjaro | Brain fog |  [Link](https://ospv.github.io/WeightDrugLoss/mounjaro-cluster-brain_fog.html) |
-| Mounjaro | Impaired gastric emptying |  [Link](https://ospv.github.io/WeightDrugLoss/mounjaro-cluster-impaired_gastric_emptying.html) |
-| Mounjaro | Alopecia |  [Link](https://ospv.github.io/WeightDrugLoss/mounjaro-cluster-alopecia.html) |
-| Mounjaro | Overdose |  [Link](https://ospv.github.io/WeightDrugLoss/mounjaro-cluster-overdose.html) |
+| Ozempic | Suicidal ideation |  [Link](https://ospv.github.io/WeightLossDrugs/ozempic-cluster-suicidal_ideation.html) |
+| Ozempic | Completed suicide |  [Link](https://ospv.github.io/WeightLossDrugs/ozempic-cluster-completed_suicide.html) |
+| Ozempic | Impaired gastric emptying |  [Link](https://ospv.github.io/WeightLossDrugs/ozempic-cluster-impaired_gastric_emptying.html) |
+| Ozempic | Brain fog |  [Link](https://ospv.github.io/WeightLossDrugs/ozempic-cluster-brain_fog.html) |
+| Ozempic | Allodynia |  [Link](https://ospv.github.io/WeightLossDrugs/ozempic-cluster-allodynia.html) |
+| Mounjaro | Accidental overdose |  [Link](https://ospv.github.io/WeightLossDrugs/mounjaro-cluster-accidental_overdose.html) |
+| Mounjaro | Brain fog |  [Link](https://ospv.github.io/WeightLossDrugs/mounjaro-cluster-brain_fog.html) |
+| Mounjaro | Impaired gastric emptying |  [Link](https://ospv.github.io/WeightLossDrugs/mounjaro-cluster-impaired_gastric_emptying.html) |
+| Mounjaro | Alopecia |  [Link](https://ospv.github.io/WeightLossDrugs/mounjaro-cluster-alopecia.html) |
+| Mounjaro | Overdose |  [Link](https://ospv.github.io/WeightLossDrugs/mounjaro-cluster-overdose.html) |
 
 <a id="competitive"></a>  
 # Safety Competitive Intelligence 
 The results of the competitive analysis are here for: 
-* [Ozempic vs Mounjaro](https://ospv.github.io/WeightDrugLoss/24Q1%20-%20Targetedcompetitive%20-%20ozempic%20vs%20mounjaro.html)
+* [Ozempic vs Mounjaro](https://ospv.github.io/WeightLossDrugs/24Q1%20-%20Targetedcompetitive%20-%20ozempic%20vs%20mounjaro.html)
 
